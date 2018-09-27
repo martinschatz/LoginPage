@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\Boi\Desktop\INFI-Holz\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1932505559.index
+3525544107.index
+2943020945.index
+1993560649.index
+3956828828.index
+2987355558.index
+3592180421.index
